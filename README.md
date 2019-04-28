@@ -1,7 +1,7 @@
 # FlexSmart(TM)
-# ![twrp](rsc/twrp.webp)
-# ![redwolf](rsc/redwolf.png)
-# ![orangefox](rsc/orangefox.jpg)
+# ![twrp](https://img.xda-cdn.com/LKTLys_T_VZcZe9eQEq6EeyoMV4=/https%3A%2F%2Fimg.xda-cdn.com%2FpSvihPyfhapF9LoHqaNVoQ9y7kw%3D%2Fhttp%253A%252F%252Flh3.googleusercontent.com%252F2HtVAF5zfNMlmKhF0QYqCSr1rsstB1btNfdKl7WvGTcZkOSKCYNxdXwsSizx9VhiPg%253Dw300)
+# ![redwolf](https://redwolfrecovery.github.io/assets/images/logo-1-540x144.png)
+# ![orangefox](https://img.xda-cdn.com/6Do3UIMhTaP5Fy7bxNg21mHsR_0=/https%3A%2F%2Fimage.ibb.co%2FcTMWux%2Flogo.jpg)
 
 A custom recovery is a third-party recovery environment. Flashing this recovery environment onto your device replaces the default, stock recovery environment with a third-party, customized recovery environment. This is a bit like flashing a custom ROM like CyanogenMod — but, instead of replacing your device’s Android operating system, it replaces the recovery environment.
 
