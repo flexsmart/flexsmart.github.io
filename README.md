@@ -18,4 +18,4 @@ Team Win Recovery Project (TWRP) is a touch-based recovery environment. Unlike o
 ClockworkMod Recovery (CWM) can create and restore NANDroid backups — backups of an Android device’s entire file system. ClockworkMod offers a ROM manager with a file browser that allows you to easily browse for and install custom ROMs via ClockworkMod Recovery and manage and restore backups. It also has other advanced features that will be useful if you’re installing and dealing with custom ROMs.
 
 # Visit our Website to know more
-<meta name=
+
